@@ -1,0 +1,4 @@
+myApp
+=====
+
+test phonegap
